@@ -79,8 +79,8 @@ select{
 }
 
 footer{
-    height: 290px;
-    background-color: rgb(14, 13, 13);
+    height: 270px;
+    background-color: rgb(31, 30, 30);
     padding: 40px;
     text-align: center;
 }
@@ -124,10 +124,12 @@ footer{
     .description p, .description h3{
         margin-bottom: 15px;
         width: 180px;
+        color: black;
     }
 
     footer{
-        background-color: #0e0d0d;
+        background-color: #f2eeee;
+        height: 290px;
     }
 
     .picture{
