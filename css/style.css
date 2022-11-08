@@ -15,7 +15,7 @@ body{
 
 .container{
     max-width: 1000px;
-    height: 1000px;
+   
     margin: auto;
 }
 
@@ -79,8 +79,8 @@ select{
 }
 
 footer{
-    height: 300px;
-    background-color: #0e0d0d;
+    height: 290px;
+    background-color: rgb(14, 13, 13);
     padding: 40px;
     text-align: center;
 }
